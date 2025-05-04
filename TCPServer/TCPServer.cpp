@@ -1,7 +1,7 @@
 #include "..\Common.h"
 
 #define SERVERPORT 9000
-#define BUFSIZE    256
+#define BUFSIZE    512
 
 int main(int argc, char* argv[]) {
 	int retval;
